@@ -1,0 +1,664 @@
+# global.columns = ID UP:PRED UP:ARGHEADS UP:ARGSPANS
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 443
+# sent_id = 443
+# text = थापा म..........
+1	stop.01	A1:2	A1:2-2
+2	_	_	_
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 444
+# sent_id = 444
+# text = "त्या ..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	give.01	AM-MOD:5	AM-MOD:5-5
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 445
+# sent_id = 445
+# text = "देवाल..........
+1	_	_	_
+2	_	_	_
+3	know.01	A1:2	A1:2-2
+4	_	_	_
+5	_	_	_
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 446
+# sent_id = 446
+# text = "देव द..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 447
+# sent_id = 447
+# text = येथे त..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	report.01	A4:1|A0:2|A1:3	A4:1-1|A0:2-2|A1:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 448
+# sent_id = 448
+# text = कागदपत..........
+1	_	_	_
+2	_	_	_
+3	tell.01	A0:1|A1:2	A0:1-1|A1:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 449
+# sent_id = 449
+# text = "हे म्..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	tell.01	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	say.01	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 450
+# sent_id = 450
+# text = न्याया..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	take_off.07	A1:4	A1:4-4
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 451
+# sent_id = 451
+# text = केशवचं..........
+1-3	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	give.01	A0:8|A1:9	A0:8-8|A1:9-9
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 452
+# sent_id = 452
+# text = भीमा ब..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	say.01	A0:1|A1:14	A0:1-1|A1:13-18
+9	_	_	_
+10	_	_	_
+11-12	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	_	_	_
+16	_	_	_
+17	_	_	_
+18	_	_	_
+19	_	_	_
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 453
+# sent_id = 453
+# text = "न्याय..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	be.01	A1:2|A2:5|AM-DIS:8	A1:2-2|A2:5-5|AM-DIS:8-8
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 454
+# sent_id = 454
+# text = "देवबी..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	be.02	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	be.01	A1:2	A1:2-2
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	say.01	A0:12	A0:12-12
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 455
+# sent_id = 455
+# text = भीमा द..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	go.02	A0:1|AM-ADV:2|A4:3	A0:1-1|AM-ADV:2-2|A4:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 456
+# sent_id = 456
+# text = तो कपा..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	sit.01	A1:1|A2:2	A1:1-1|A2:2-4
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 457
+# sent_id = 457
+# text = "काय ल..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	ask.01	A1:3|A0:7	A1:2-5|A0:7-7
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 458
+# sent_id = 458
+# text = "आपण च..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	strike.01	A0:2|A1:3	A0:2-2|A1:3-3
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	turn.02	A0:2|A1:7	A0:2-2|A1:5-7
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 459
+# sent_id = 459
+# text = "आपण उ..........
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	speak.01	A1:2|A2:5	A1:2-2|A2:5-5
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	speak.01	A0:9|AM-MNR:10	A0:9-9|AM-MNR:10-10
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 460
+# sent_id = 460
+# text = त्या ग..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6-7	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	throw.01	A1:8|A2:9	A1:5-8|A2:9-9
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 461
+# sent_id = 461
+# text = परंतु ..........
+1	_	_	_
+2	produce.01	AM-DIS:1|A1:3	AM-DIS:1-1|A1:3-3
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 462
+# sent_id = 462
+# text = या प्र..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	leave.11	A0:4	A0:1-4
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 463
+# sent_id = 463
+# text = केशवचं..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 464
+# sent_id = 464
+# text = गाव शृ..........
+1	_	_	_
+2	_	_	_
+3	come.01	A1:1|AM-TMP:2	A1:1-1|AM-TMP:2-2
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	come.01	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 465
+# sent_id = 465
+# text = तेथे र..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	create.01	A1:4	A1:4-4
+7	come.01	AM-LOC:1|A1:4	AM-LOC:1-1|A1:4-4
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 466
+# sent_id = 466
+# text = राजाच्..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9-10	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	come.03	A1:13|AM-MOD:15	A1:12-13|AM-MOD:15-15
+15	_	_	_
+16	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 467
+# sent_id = 467
+# text = सरदार-..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	come.03	A1:3	A1:1-7
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 468
+# sent_id = 468
+# text = तेथे फ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 469
+# sent_id = 469
+# text = केशवचं..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4-5	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	feel.01	A1:1|A1:6	A1:1-1|A1:6-6
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 470
+# sent_id = 470
+# text = राजाच्..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	wear.01	A0:5|A1:6	A0:5-5|A1:6-6
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 471
+# sent_id = 471
+# text = म्हणून..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	turn.01	AM-TMP:9|AM-NEG:13	AM-TMP:8-9|AM-NEG:13-13
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 472
+# sent_id = 472
+# text = राजा ज..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	sit.01	A1:1	A1:1-1
+7	_	_	_
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 473
+# sent_id = 473
+# text = सभामंड..........
+1	_	_	_
+2	fill.01	A1:1	A1:1-1
+3	_	_	_
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 474
+# sent_id = 474
+# text = आजूबाज..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3-4	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8-9	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 475
+# sent_id = 475
+# text = नटूनथट..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	come.01	AM-DIR:1|A1:3	AM-DIR:1-1|A1:2-3
+5	_	_	_
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 478
+# sent_id = 478
+# text = हां, ह..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	see.01	_	_
+5	_	_	_
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 479
+# sent_id = 479
+# text = आणि वा..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	begin.01	AM-DIS:1|A0:2|A1:3	AM-DIS:1-1|A0:2-2|A1:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 480
+# sent_id = 480
+# text = जयघोष ..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	come.01	A1:1	A1:1-1
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 481
+# sent_id = 481
+# text = सारे श..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	sit.01	A1:2|A2:4	A1:1-2|A2:4-4
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 482
+# sent_id = 482
+# text = गावाबा..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 483
+# sent_id = 483
+# text = त्या म..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 484
+# sent_id = 484
+# text = गावात ..........
+1	_	_	_
+2	_	_	_
+3	die.01	AM-LOC:1|A1:2	AM-LOC:1-1|A1:2-2
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	scratch.02	A1:7|AM-MOD:9	A1:6-7|AM-MOD:9-9
+9	_	_	_
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 485
+# sent_id = 485
+# text = भीमा आ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	go.02	A0:1|AM-TMP:2|A4:4	A0:1-1|AM-TMP:2-2|A4:3-4
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	decorate.01	A1:9	A1:7-9
+11	begin.01	_	_
+12	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 486
+# sent_id = 486
+# text = "कोण म..........
+1	_	_	_
+2	_	_	_
+3	die.01	A1:2	A1:2-2
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	ask.01	A1:3	A1:2-4
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 487
+# sent_id = 487
+# text = "न्याय..........
+1	_	_	_
+2	_	_	_
+3	die.01	A1:2	A1:2-2
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	say.01	A1:3	A1:2-3
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 488
+# sent_id = 488
+# text = "खरेच ..........
+1	_	_	_
+2-3	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	fail.01	A1:5|AM-NEG:7	A1:5-5|AM-NEG:7-7
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10-11	_	_	_
+10	_	_	_
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	say.01	A0:12|A1:13	A0:12-12|A1:13-13
+15	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 489
+# sent_id = 489
+# text = घंटेचा..........
+1-2	_	_	_
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5-6	_	_	_
+5	_	_	_
+6	_	_	_
+7-8	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	come.01	A1:9	A1:9-9
+11	_	_	_
+12	_	_	_
+13	_	_	_
+14	_	_	_
+15	die.01	A1:14	A1:14-14
+16	_	_	_
+17	_	_	_
+18	ask.01	A0:14	A0:14-14
+19	_	_	_
+20	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Marathi-UFAL/mr_ufal-ud-dev.conllu 490
+# sent_id = 490
+# text = 'न्याय..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	answer.01	A0:7|A1:8	A0:7-7|A1:8-8
+10	_	_	_
+11	_	_	_
+
